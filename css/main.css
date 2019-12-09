@@ -214,15 +214,9 @@ img:hover{
 }
 
 .column-view {
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
-.design {
-  border-left: 0.5em solid salmon;
-}
-.development {
-  border-left: 0.5em solid darkcyan;
-}
 
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
